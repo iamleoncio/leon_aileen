@@ -702,6 +702,7 @@ h1, h2, h3, h4, h5, h6, figure {
   right: 2em;
   position: absolute;
   z-index: 100;
+  text-align:center;
 }
 @media screen and (max-width: 768px) {
   #fh5co-gallery-list li a .case-studies-summary {
